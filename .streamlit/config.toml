@@ -1,0 +1,21 @@
+[server]
+# Port to run the app on
+port = 8501
+
+# Enable wide mode
+wideMode = true
+
+# Enable CORS
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+# Server to use for gathering server usage statistics
+gatherUsageStats = false
+
+[theme]
+# Custom theme colors
+primaryColor = "#6366f1"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#f8fafc"
