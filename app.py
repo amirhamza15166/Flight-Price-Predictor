@@ -3,7 +3,7 @@ Flight Price Prediction Web Application
 =======================================
 A premium, animated Streamlit web app for predicting flight prices.
 
-Author: ML Pipeline
+Author: Amir Hamza Roohullah 
 Version: 2.0.0
 """
 
